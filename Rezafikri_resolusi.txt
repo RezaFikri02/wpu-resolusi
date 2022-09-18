@@ -1,0 +1,5 @@
+hallo pak, salam kenal nama saya Reza Fikri dari Jakarta
+
+resolusi saya:
+- Meski basic saya bukan dari IT, saya ingin memiliki banyak ilmu pengetehuan seputar IT, saya akan terus berusaha untuk belajar terutama bagian web develop
+- Saya lihat di Channel YT bapak belum ada pembuatan materi seputar ReactJS, semoga bapak mau membuat video List seputar ReactJs
